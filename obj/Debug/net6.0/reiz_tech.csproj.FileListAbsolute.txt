@@ -1,0 +1,15 @@
+/home/phetoush/github_repos/personal/reiz_tech/bin/Debug/net6.0/reiz_tech
+/home/phetoush/github_repos/personal/reiz_tech/bin/Debug/net6.0/reiz_tech.deps.json
+/home/phetoush/github_repos/personal/reiz_tech/bin/Debug/net6.0/reiz_tech.runtimeconfig.json
+/home/phetoush/github_repos/personal/reiz_tech/bin/Debug/net6.0/reiz_tech.dll
+/home/phetoush/github_repos/personal/reiz_tech/bin/Debug/net6.0/ref/reiz_tech.dll
+/home/phetoush/github_repos/personal/reiz_tech/bin/Debug/net6.0/reiz_tech.pdb
+/home/phetoush/github_repos/personal/reiz_tech/obj/Debug/net6.0/reiz_tech.csproj.AssemblyReference.cache
+/home/phetoush/github_repos/personal/reiz_tech/obj/Debug/net6.0/reiz_tech.GeneratedMSBuildEditorConfig.editorconfig
+/home/phetoush/github_repos/personal/reiz_tech/obj/Debug/net6.0/reiz_tech.AssemblyInfoInputs.cache
+/home/phetoush/github_repos/personal/reiz_tech/obj/Debug/net6.0/reiz_tech.AssemblyInfo.cs
+/home/phetoush/github_repos/personal/reiz_tech/obj/Debug/net6.0/reiz_tech.csproj.CoreCompileInputs.cache
+/home/phetoush/github_repos/personal/reiz_tech/obj/Debug/net6.0/reiz_tech.dll
+/home/phetoush/github_repos/personal/reiz_tech/obj/Debug/net6.0/ref/reiz_tech.dll
+/home/phetoush/github_repos/personal/reiz_tech/obj/Debug/net6.0/reiz_tech.pdb
+/home/phetoush/github_repos/personal/reiz_tech/obj/Debug/net6.0/reiz_tech.genruntimeconfig.cache
